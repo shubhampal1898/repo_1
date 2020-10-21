@@ -1,5 +1,21 @@
 body {
-  background-color: 'Blue';
+  font-family: 'Open Sans',
+  sans-serif;
+  background-color: #252525;
   padding: 20px;
+  color: #ffffff;
+  text-align: center;
+}
 
+body p {
+  width: 50%;
+  margin: auto;
+  background: -webkit-linear-gradient( #DD1FB3, #7B3FFB);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+body img {
+  width: 20em;
+  margin-bottom: 2em;
 }
